@@ -1,0 +1,58 @@
+docs/agent-orchestration-analysis.md
+  s_4b1129858088c1::t_c01a2ad444e679 9,36,48,81,89,123,129,150-173,176,178
+  s_4b1129858088c1::t_2cb20bc97e4521 191-195
+  s_4b1129858088c1::t_609395f3953095 200-209
+  s_4b1129858088c1::t_dc8586363dfe7c 218-223
+  s_4b1129858088c1::t_a00a478a6a014e 50-76
+  s_4b1129858088c1::t_2ad73ef6ae16c3 6-8
+  s_4b1129858088c1::t_066cd0663b8915 10-12,33-35
+  s_4b1129858088c1::t_15fe16f6af5266 37-39,45-47
+  s_4b1129858088c1::t_896546262effb9 49
+  s_4b1129858088c1::t_2742d0aa15fa84 77-80
+  s_4b1129858088c1::t_c7e008eb894886 82-84,86-88
+  s_4b1129858088c1::t_8cd8cd716c9488 90-92,120-122
+  s_4b1129858088c1::t_e4794b7327e386 124-128
+  s_4b1129858088c1::t_ef0d9b20e91d95 130-132,147-149
+  s_4b1129858088c1::t_eaf814946335ac 174-175
+  s_4b1129858088c1::t_3f1e3c8010a347 177
+  s_4b1129858088c1::t_cac049ee648f84 179-181,188-190
+  s_4b1129858088c1::t_a257652a978f77 196-199
+  s_4b1129858088c1::t_69c58efea4b529 210-212,215-217
+  s_4b1129858088c1::t_bb86f3e526bffd 224-225
+.token-optimizer/authored/3d8cf8dd3cbaad42fb4c0fdd7ce09a6d.json
+  s_b9027633fc5b5d::t_e7b808906f5281 1
+.token-optimizer/authored/dd214c7b4fb95f536f8bbd04517df86f.json
+  s_e3ce6110fe4498::t_4771e618b7124c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "1562f8fad547ad6dd717cb2bce8f279ea6342926",
+  "prompts": {},
+  "sessions": {
+    "s_4b1129858088c1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec7e5262cffeytj5MiAnnV9arm",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "benliu <benliu@tinnove.com.cn>"
+    },
+    "s_b9027633fc5b5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14af667d-e382-4365-8387-1f83e8e08301",
+        "model": "unknown"
+      },
+      "human_author": "benliu <benliu@tinnove.com.cn>"
+    },
+    "s_e3ce6110fe4498": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0c2d5f4d-8bf1-45af-86b3-c23c75f25296",
+        "model": "unknown"
+      },
+      "human_author": "benliu <benliu@tinnove.com.cn>"
+    }
+  }
+}
