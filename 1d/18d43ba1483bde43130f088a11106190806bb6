@@ -1,0 +1,42 @@
+docs/architecture-analysis.md
+  s_dc4cbe3cd81d1c::t_0ec063c9f1c8e5 1-4,6-13,15-57,59-89,93,95,97,99-112,116-120,127,130-133,137,139,145-249,251,253,255-299,303,305-308,310-312,314-324,327,329-330
+  s_dc4cbe3cd81d1c::t_b22ac4f8e8831a 5
+  s_dc4cbe3cd81d1c::t_2aec69afe3fd4c 14
+  s_dc4cbe3cd81d1c::t_7ba3ce1189be8c 58
+  s_dc4cbe3cd81d1c::t_42020ad424ffa7 90-92
+  s_dc4cbe3cd81d1c::t_bd97bd83d828ca 94
+  s_dc4cbe3cd81d1c::t_60d9ee0f370bd7 96
+  s_dc4cbe3cd81d1c::t_ec8996777382a0 98
+  s_dc4cbe3cd81d1c::t_4d5167d2ae89cf 113-115
+  s_dc4cbe3cd81d1c::t_e7bf5669a3a9c4 121-126
+  s_dc4cbe3cd81d1c::t_9af62841d1bb8b 128-129
+  s_dc4cbe3cd81d1c::t_b2e87b0f77ad97 134-136
+  s_dc4cbe3cd81d1c::t_158181b9978287 138
+  s_dc4cbe3cd81d1c::t_97b9410c487d34 140-144
+  s_dc4cbe3cd81d1c::t_4a86ef31efed04 250
+  s_dc4cbe3cd81d1c::t_dd6c558b851629 252
+  s_dc4cbe3cd81d1c::t_7d0111735f4000 254
+  s_dc4cbe3cd81d1c::t_f61cf422c7c25b 300-302
+  s_dc4cbe3cd81d1c::t_a3ee3a2776f81f 304
+  s_dc4cbe3cd81d1c::t_ba91073a65b2dd 309
+  s_dc4cbe3cd81d1c::t_dd5a1903531f2b 313
+  s_dc4cbe3cd81d1c::t_ae9cf2f29d4488 325-326
+  s_dc4cbe3cd81d1c::t_acd16c41e77647 328
+  s_dc4cbe3cd81d1c::t_7358068c2c5df7 331-333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "1d18d43ba1483bde43130f088a11106190806bb6",
+  "prompts": {},
+  "sessions": {
+    "s_dc4cbe3cd81d1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "87c23ef7-805f-4617-93bf-9bca083f9da7",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "benliu <benliu@tinnove.com.cn>"
+    }
+  }
+}
